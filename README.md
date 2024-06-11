@@ -1,3 +1,8 @@
 # TUGAS MEMBUAT VIDEO DIGITAL MARKETING 
 
-link youtube https://youtu.be/ODD812qYAr0
+|  NAMA | NIM | LINK YOUTUBE |
+| --- | --- | --- | 
+| Muhammad Zidan Fadillah | 312210277 | https://youtu.be/ODD812qYAr0
+
+
+ 
